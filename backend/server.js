@@ -19,5 +19,3 @@ const PORT = process.env.PORT || 8000;
 
 app.listen(PORT);
 
-//database: mongodb+srv://SWE497:r2EZjzEGpFjFOuRD@cluster0-fuyka.mongodb.net/SWE497?retryWrites=true&w=majority
-//database password: r2EZjzEGpFjFOuRD
